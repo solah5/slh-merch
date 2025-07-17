@@ -1,1 +1,1 @@
-Project website responsive sederhana
+Project website responsive sederhana menggunakan HTML, CSS GRID, dan sedikit JavaScript
